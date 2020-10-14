@@ -9,6 +9,6 @@ Download the files, then run explorer.py. Program runs in your favourite termina
 # About the app
 This project stemmed from superghost-tree (https://github.com/danielq987/superghost-tree) as a simple way to look-up information from the large, ~15mB pascal file. Since the tree was already made, this program was fairly simple and simply required traversing the tree to find the optimal moves at each point the user queried for. 
 
-Additionally, you can use this app to beat the "perfect AI" of SuperGhost found at https://github.com/danielq987/superghost-computer. Simply start with "o" or "s" and then type everything Zyka throws at you into explorer.py. If you happen to be player 2, you're out of luck. 
+Additionally, you can use this app to beat the "perfect AI" of SuperGhost found at https://github.com/danielq987/superghost-computer. Simply start with "o" or "s" and then type everything Zyka throws at you into explorer.py. If you happen to be player 2, you're out of luck - theres no possible win against Zyka. 
 
 Thanks for checking this out! More information can be found at my currently-non-existent blog (hopefully up soon).
