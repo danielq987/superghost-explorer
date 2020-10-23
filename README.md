@@ -11,4 +11,4 @@ This project stemmed from superghost-tree (https://github.com/danielq987/supergh
 
 Additionally, you can use this app to beat the "perfect AI" of SuperGhost found at https://github.com/danielq987/superghost-computer. Simply start with "o" or "s" and then type everything Zyka throws at you into explorer.py. If you happen to be player 2, you're out of luck - theres no possible win against Zyka. 
 
-Thanks for checking this out! More information can be found at my currently-non-existent blog (hopefully up soon).
+Thanks for checking this out! More information can be found at my blog [here](https://danielq987.github.io/blog/posts/2020/10/15/superghost.html).
