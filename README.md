@@ -7,7 +7,7 @@ Information about the game can be found here. https://www.wikiwand.com/en/Ghost_
 Download the files, then run explorer.py. Program runs in your favourite terminal using python. Type help for help.
 
 # About the app
-This project stemmed from superghost-tree (https://github.com/danielq987/superghost-tree) as a simple way to look-up information from the large, ~15mB pascal file. Since the tree was already made, this program was fairly simple and simply required traversing the tree to find the optimal moves at each point the user queried for. 
+This project stemmed from superghost-tree (https://github.com/danielq987/superghost-tree) as a simple way to look-up information from the large, ~15mB pickle file. Since the tree was already made, this program was fairly simple and simply required traversing the tree to find the optimal moves at each point the user queried for. 
 
 Additionally, you can use this app to try to beat the "perfect AI" of SuperGhost found at https://github.com/danielq987/superghost-computer.
 
