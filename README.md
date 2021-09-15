@@ -3,10 +3,15 @@ Explore every possible turn of Superghost with this command line tool, giving gu
 
 Information about the game can be found here. https://www.wikiwand.com/en/Ghost_(game)
 
-# How to use
+# Usage
 Download the files, then run explorer.py. Program runs in your favourite terminal using python. Type help for help.
 
 ![image](https://user-images.githubusercontent.com/67433232/133364356-9f8392a8-31f4-479f-a974-d34309dc4af1.png)
+
+After a string is entered, all guaranteed winning moves will be listed. 
+Additionally, all non-winning moves will also be listed, with a simple estimate for probability of win.
+
+If the string cannot form another word, then `Bad string` will be outputted.
 
 # About the app
 This project stemmed from superghost-tree (https://github.com/danielq987/superghost-tree) as a simple way to look-up information from the large, ~15mB pickle file. Since the tree was already made, this program was fairly simple and simply required traversing the tree to find the optimal moves at each point the user queried for. 
